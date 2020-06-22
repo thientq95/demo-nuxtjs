@@ -9,8 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "mini-toastr": "^0.8.1",
     "nuxt": "^2.13.0",
-    "nuxt-buefy": "^0.3.31"
+    "nuxt-buefy": "^0.3.31",
+    "v-tooltip": "^2.0.3",
+    "vue-notifications": "^1.0.2"
   },
   "devDependencies": {}
 }
