@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mini-toastr": "^0.8.1",
     "nuxt": "^2.13.0",
     "nuxt-buefy": "^0.3.31",
